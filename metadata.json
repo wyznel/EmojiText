@@ -1,0 +1,8 @@
+{
+  "name": "Emoji Text",
+  "creator": "benyamin",
+  "description": "Easily add emojis to your chat. Run /emojitext help for more.",
+  "version": "0.1.0",
+  "entry": "index.js",
+  "requires" : ["IsTyping"]
+}
