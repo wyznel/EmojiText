@@ -8,4 +8,4 @@ Limited number of emoticons at the moment, more ***will*** be added i swear
 
 ![Example of 'tick'](https://i.imgur.com/te8kv5h.png)
 
-Report any problems to **@wyznel** on discord.
+Report any problems to **@wyznel** on discord!
