@@ -1,7 +1,6 @@
 # Emoji Text
 > A [CT](https://chattriggers.com/) module
 
-
 ## Prerequisites
 To use this module, the following requirements **must** be met:
 1) [ChatTriggers](https://chattriggers.com/), version 3.0.0

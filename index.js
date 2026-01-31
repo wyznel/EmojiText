@@ -8,7 +8,7 @@ const prefix = "&8[&6SimpleEmoji&8]&7";
 const replaceMessageWithEmoticons = register("benyamin:typing", function(message) {
     const pattern = new RegExp(Object.keys(emoticons).map(k => `'${k}'`).join('|'), 'g');
     message = message.replace(pattern, (matched) => {
-        const key = matched.replace(/'/g, ""); 
+        const key = matched.replace(/'/g, "");
         return emoticons[key];
     });
     Client.setCurrentChatMessage(message);
