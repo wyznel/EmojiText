@@ -11,7 +11,7 @@ const replaceMessageWithEmoticons = register("benyamin:typing", function(message
         const key = matched.replace(/'/g, ""); 
         return emoticons[key];
     });
-    Client.setCurrentChatMessage(message);
+    Client.setCurrentChatMessage(message + "!");
 });
 
 const { argument, choices, literal, exec } = Commands;
