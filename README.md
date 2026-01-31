@@ -3,7 +3,7 @@
 
 
 ## Prerequisites
-To use this module, the following requirements ==must== be met:
+To use this module, the following requirements **must** be met:
 1) [ChatTriggers](https://chattriggers.com/), version 3.0.0
 2) [IsTyping](https://github.com/wyznel/IsTyping/) is required for this module to work (it's a ct library written by me)
 
